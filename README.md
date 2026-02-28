@@ -33,6 +33,7 @@ This solution transforms raw CPQ data into actionable financial insight.
   * Orders
   * Subscriptions
   * Opportunities
+  * Accounts
 
 ---
 
