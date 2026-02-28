@@ -15,6 +15,7 @@ This solution transforms raw CPQ data into actionable financial insight.
 ---
 
 ## 🏗 Architecture Flow
+<img width="392" height="539" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/ec3efb4f-7641-4b9f-8bdf-924ea81eaa8e" />
 
 **Input → Process → Integration → Outcomes → Impact**
 
