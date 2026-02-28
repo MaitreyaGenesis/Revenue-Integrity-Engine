@@ -15,7 +15,8 @@ This solution transforms raw CPQ data into actionable financial insight.
 ---
 
 ## 🏗 Architecture Flow
-<img width="392" height="539" alt="Architecture Diagram" src="[https://github.com/user-attachments/assets/ec3efb4f-7641-4b9f-8bdf-924ea81eaa8e](https://raw.githubusercontent.com/MaitreyaGenesis/Revenue-Integrity-Engine/refs/heads/main/Architecture%20Diagram.png)" />
+
+<img width="392" height="539" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/ff5b2781-72d0-4077-9a1d-425e6de41f75" />
 
 **Input → Process → Integration → Outcomes → Impact**
 
