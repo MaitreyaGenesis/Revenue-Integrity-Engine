@@ -1,0 +1,9 @@
+pandas
+numpy
+python-dotenv
+matplotlib
+simple-salesforce
+requests
+groq
+PyPDF2>=3.0.0
+reportlab>=4.0.0
